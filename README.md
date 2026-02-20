@@ -118,7 +118,7 @@ High-growth economies often show oil demand increases, but many exhibit relative
 
 ##### 2️⃣ Decoupling Classification Distribution
 
-![Decoupling Classification Distribution](Decoupling1/Decoupling.png)
+![Decoupling Classification Distribution](Decoupling1/Decoupling1.png)
 
 ***The classification breakdown shows:**
 
