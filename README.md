@@ -55,6 +55,8 @@ This project investigates whether countries are achieving economic decoupling th
   - Oil consumption growth (%)
   - Oil intensity (TWh per billion USD GDP)
   - Oil intensity change (%)
+ 
+  [View Full Analysis Here](Full_Analysis2/Full_Analysis2.ipynb)
 
 ## 📊 Key Metrics Calculated
 ##### Oil Intensity
