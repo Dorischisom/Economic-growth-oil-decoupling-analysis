@@ -97,6 +97,7 @@ This measures how much oil is used per unit of economic output.
 
 **This visualization plots:**
 X-axis → GDP growth (%)
+
 Y-axis → Oil consumption change (%)
 
 
