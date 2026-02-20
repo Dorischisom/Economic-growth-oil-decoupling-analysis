@@ -1,4 +1,4 @@
-# 🌍 Are Countries Decoupling Economic Growth from Oil Consumption? (2000–2024)
+# Are Countries Decoupling Economic Growth from Oil Consumption? (2000–2024)
 
 ## 📌 Business Problem
 
@@ -93,6 +93,8 @@ This measures how much oil is used per unit of economic output.
 
 ##### 1️⃣ Scatter Plot: GDP Growth vs Oil Consumption Change
 
+![GDP Growth vs Oil Consumption Change](Scatter_Plot/Scatter_Plot.png)
+
 **This visualization plots:**
 X-axis → GDP growth (%)
 Y-axis → Oil consumption change (%)
@@ -116,6 +118,8 @@ High-growth economies often show oil demand increases, but many exhibit relative
 
 ##### 2️⃣ Decoupling Classification Distribution
 
+![Decoupling Classification Distribution](Decoupling1/Decoupling.png)
+
 ***The classification breakdown shows:**
 
 - Majority of countries achieved relative decoupling
@@ -125,6 +129,8 @@ High-growth economies often show oil demand increases, but many exhibit relative
 This suggests gradual structural improvement in oil efficiency globally.
 
 ##### 3️⃣ Oil Intensity Trends
+
+![Oil Intensity Trends](Oil_Intensity/Oil_Intensity.png)
 
 **Time-series analysis indicates:**
 
