@@ -1,6 +1,6 @@
 # Are Countries Decoupling Economic Growth from Oil Consumption? (2000–2024)
 
-## 📌 Business Problem
+## Business Problem
 
 Economic growth has historically been closely tied to fossil fuel consumption. However, as countries pursue energy efficiency, structural transformation, and climate goals, an important question emerges:
 
@@ -8,7 +8,7 @@ Economic growth has historically been closely tied to fossil fuel consumption. H
 
 This project investigates whether countries are achieving economic decoupling the ability to grow GDP without proportionally increasing oil consumption.
 
-## 🎯 Objective
+## Objective
 
 **To evaluate whether countries between 2000 and 2024 are:**
 
@@ -22,7 +22,7 @@ This project investigates whether countries are achieving economic decoupling th
 - No Decoupling
 - Other / GDP contraction
 
-## 📂 Data Sources
+## Data Sources
 1. Oil Consumption (TWh)
 - Source: Our World in Data (OWID)
 
@@ -43,7 +43,7 @@ This project investigates whether countries are achieving economic decoupling th
 - Our World in Data
 
 
-## 🧹 Data Cleaning & Preparation (Python)
+## Data Cleaning & Preparation (Python)
 
 ##### The following steps were performed:
 - Removed regional aggregates (World, EU, income groups)
@@ -58,7 +58,7 @@ This project investigates whether countries are achieving economic decoupling th
  
   [View Full Analysis Here](Full_Analysis2/Full_Analysis2.ipynb)
 
-## 📊 Key Metrics Calculated
+## Key Metrics Calculated
 ##### Oil Intensity
 
 ```Oil Intensity = Oil Consumption (TWh) / GDP (billion USD)```
