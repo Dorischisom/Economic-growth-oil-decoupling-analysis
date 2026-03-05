@@ -111,7 +111,7 @@ Y-axis → Oil consumption change (%)
 
 **However, the fact that these countries were still classified as relative decoupling indicates that, for many of them, GDP grew faster than oil consumption, so oil intensity declined.**
 
-**A sizeable group appears in the bottom-right quadrant (GDP up, oil down). These are the absolute decoupling countries—economies that expanded while reducing oil use, which is the clearest sign of structural decoupling.**
+**A sizeable group appears in the bottom-right quadrant (GDP up, oil down). These are the absolute decoupling countries economies that expanded while reducing oil use, which is the clearest sign of structural decoupling.**
 
 **The chart also shows a few countries far to the right with very high GDP growth. Some of these also show large oil increases, suggesting that rapid economic expansion can still be accompanied by rising oil demand in certain contexts. Overall, the scatter confirms that economic growth does not automatically require proportional growth in oil consumption, but the pathway differs across countries.**
 
